@@ -4,7 +4,7 @@
 
 A designer, a writer, a front-end developer. CSS for 9 years, JavaScript for 5 years, With React ⚛️ and Vue 🔰 skills.
 
-Love simple things and make things simple 🦋. especially, I make simple React libraries, I contribute to make the React world ⚡️ simpler, not complexity and chaos 🗡.
+Love simple things and make things simple. especially 🦉, I make simple React libraries, I contribute to make the React ⚡️ world simpler, not complexity and chaos 🗡.
 
 - ✉️ Talk to me via [Email](mailto:nanxiaobei@gmail.com)
 - 📱 Find something fun on my website [MRLEE.ME](https://mrlee.me/)
@@ -12,3 +12,10 @@ Love simple things and make things simple 🦋. especially, I make simple React 
 - 👨‍💻 Read front-end articles on my column [Retalk](https://zhuanlan.zhihu.com/retalk/)
 - 🤳 Follow me on [Twitter](https://twitter.com/nanxiaobei) or [Instagram](https://www.instagram.com/nan.xiaobei/)
 - 💰 Send me money and get your work done on [21beats](https://21beats.com/)
+
+---
+
+Repos:
+
+- 🦋 [front-end-dev-guide](https://github.com/nanxiaobei/front-end-dev-guide)
+- 🕊 [react-spring-dnd](https://github.com/nanxiaobei/react-spring-dnd)
