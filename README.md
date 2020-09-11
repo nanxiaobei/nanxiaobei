@@ -2,11 +2,11 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nanxiaobei&title_color=fff&text_color=fff&icon_color=ccc&bg_color=000&hide_title=true&show_icons=true" />
 
-- 📮 Talk to me via [Email](mailto:nanxiaobei@gmail.com)
+- 📩 Talk to me via [Email](mailto:nanxiaobei@gmail.com)
 - 📱 Find fun on my website [MR. LEE](https://mrlee.me/)
 - 🤳 Follow me on [Twitter](https://twitter.com/nanxiaobei) or [Instagram](https://www.instagram.com/nan.xiaobei/)
 - 🖋 Read writings since 2008 on my [Blog](https://mrlee.me/blog/)
-- 👨‍💻 Read front-end articles on my [Retalk](https://zhuanlan.zhihu.com/retalk/)
+- 💻 Read front-end articles on my [Retalk](https://zhuanlan.zhihu.com/retalk/)
 - 💰 Get your website design done on [21beats](https://21beats.com/)
 - 🎟 Checkout slides about front-end on [Slides](https://slides.com/retalk)
 
