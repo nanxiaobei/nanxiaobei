@@ -8,7 +8,7 @@
 - 🗞 Read writings since 2008 on my [blog](https://mrlee.me/blog/)
 - 📔 Read front-end articles on my [Retalk](https://zhuanlan.zhihu.com/retalk/)
 - 💯 Get your website design done on [21beats](https://21beats.com/)
-- 🧭 Checkout slides on [slides](https://slides.com/retalk) & [声享](https://ppt.baomitu.com/u/nanxiaobei)
+- 🧭 Checkout slides about FE on [slides](https://slides.com/retalk) & [声享](https://ppt.baomitu.com/u/nanxiaobei)
 
 A designer, a writer, a front-end developer. with React ⚛️ and Vue ♻️ skills.
 
