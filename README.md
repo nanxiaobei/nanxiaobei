@@ -20,3 +20,4 @@ Repos:
 
 - 🦋 [front-end-dev-guide](https://github.com/nanxiaobei/front-end-dev-guide) 前端开发行为指导规范
 - 🕊 [react-spring-dnd](https://github.com/nanxiaobei/react-spring-dnd) A deadly simple drag and drop solution using react-spring
+- ♒ [react-easy-contexts](https://github.com/nanxiaobei/react-easy-contexts) A simple tool to add multiple React contexts easily.
