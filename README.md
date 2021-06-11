@@ -6,7 +6,7 @@
 - 🍭 Find fun on my website [MR. LEE](https://mrlee.me/)
 - 🌱 Follow me on [Twitter](https://twitter.com/nanxiaobei) or [Instagram](https://www.instagram.com/nan.xiaobei/)
 - 🗞 Read writings since 2008 on my [blog](https://mrlee.me/blog/)
-- 📔 Read front-end articles on my [Retalk](https://zhuanlan.zhihu.com/retalk/)
+- 📔 Read front-end articles on my [Retalk](https://www.zhihu.com/column/c_1386709004823998464)
 - 💯 Get your website design done on [21beats](https://21beats.com/)
 - 🧭 Checkout slides about FE on [slides](https://slides.com/retalk) or [声享](https://ppt.baomitu.com/u/nanxiaobei)
 
