@@ -5,10 +5,10 @@
 - 😇 Talk to me via [**Email**](mailto:nanxiaobei@gmail.com)
 - 🍭 Find fun on my site [**MR. LEE**](https://mrlee.me/)
 - 🌱 Follow me on [**Twitter**](https://twitter.com/nanxiaobei) or [**Instagram**](https://www.instagram.com/nan.xiaobei/)
-- 🗞 Read stories since 2008 on my [**blog**](https://mrlee.me/blog/)
-- 📔 Read FE dev articles on my [**Retalk**](https://www.zhihu.com/column/c_1386709004823998464)
+- 🗞 Read stories since 2008 on my [**Blog**](https://mrlee.me/blog/)
+- 📔 Read FE tech articles on my [**Retalk**](https://www.zhihu.com/column/c_1386709004823998464)
 - 💯 Get your web design done on [**21beats**](https://21beats.com/)
-- 🧭 Checkout slides(PPT) about FE dev on [**slides**](https://slides.com/retalk)
+- 🧭 Checkout slides(PPT) about FE on [**slides**](https://slides.com/retalk)
 
 A designer, a writer, a front-end developer. with React ⚛️ and Vue ♻️ skills.
 
