@@ -9,7 +9,8 @@
 - 💯 Get your web design done on [**21beats**](https://21beats.com/)
 - 🧭 Checkout slides(PPT) about FE on [**slides**](https://slides.com/retalk)
 - 😇 Talk to me via [**Email**](mailto:nanxiaobei@gmail.com)
-- A designer, a writer, a front-end developer. with React ⚛️ and Vue ♻️ skills.
+
+A designer, a writer, a front-end developer. with React ⚛️ and Vue ♻️ skills.
 
 Love simple things and make things simple ❤️. especially, I make simple React libraries, I contribute to make the React ⚡️ world simpler, not complexity and chaos 🗡.
 
