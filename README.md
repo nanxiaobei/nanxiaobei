@@ -1,3 +1,5 @@
+![](https://lee.so/images/hi-im-nanxiaobei.svg)
+
 ### Hi there, I'm 南小北 👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nanxiaobei&title_color=fff&text_color=fff&icon_color=ccc&bg_color=000&hide_title=true&show_icons=true" />
