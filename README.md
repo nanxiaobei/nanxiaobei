@@ -20,7 +20,7 @@ Love simple things and make things simple ❤️. especially, I make simple Reac
 
 Repos:
 
-- 🪢 [resso](https://github.com/nanxiaobei/resso) Reactive shared state for React
+- 🪢 [resso](https://github.com/nanxiaobei/resso) Reactive shared state of React
 - 🏏 [react-split-components](https://github.com/nanxiaobei/react-split-components) A new way of Function Components without Hooks
 - ⚡️ [taro-ux-kits](https://github.com/nanxiaobei/taro-ux-kits) Taro 小程序的用户体验优化 × 7
 - 🛏 [stylelint-config-one](https://github.com/nanxiaobei/stylelint-config-one) All-in-one stylelint config
