@@ -20,6 +20,7 @@ Love simple things and make things simple ❤️. especially, I make simple Reac
 
 Repos:
 
+- 🧿 [solid-react](https://github.com/nanxiaobei/solid-react) Hooks for a SolidJS-like React
 - 🏏 [react-split-components](https://github.com/nanxiaobei/react-split-components) A new way of Function Components without Hooks
 - 🏄‍♂️ [react-slide-routes](https://github.com/nanxiaobei/react-slide-routes) The easiest way to slide React routes
 - ♒ [react-easy-contexts](https://github.com/nanxiaobei/react-easy-contexts) A simple tool to add multiple React contexts easily
