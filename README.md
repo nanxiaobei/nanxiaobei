@@ -25,6 +25,6 @@ Repos:
 - 🏄‍♂️ [react-slide-routes](https://github.com/nanxiaobei/react-slide-routes) The easiest way to slide React routes
 - ♒ [react-easy-contexts](https://github.com/nanxiaobei/react-easy-contexts) A simple tool to add multiple React contexts easily
 - 🕊 [react-spring-dnd](https://github.com/nanxiaobei/react-spring-dnd) A deadly simple drag and drop solution using react-spring
-- ⚡️ [taro-ux-kits](https://github.com/nanxiaobei/taro-ux-kits) Taro 小程序的用户体验优化 × 7
+- 📮 [taro-ux-kits](https://github.com/nanxiaobei/taro-ux-kits) Taro 小程序的用户体验优化 × 7
 - 🦋 [front-end-dev-guide](https://github.com/nanxiaobei/front-end-dev-guide) 前端开发行为指导规范
 - 🛏 [stylelint-config-one](https://github.com/nanxiaobei/stylelint-config-one) All-in-one stylelint config
