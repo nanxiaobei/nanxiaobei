@@ -7,7 +7,7 @@
 - 🍭 Find fun on my site [**lee.so**](https://lee.so/)
 - 🌱 Follow me on [**Twitter**](https://twitter.com/nanxiaobei) or [**Instagram**](https://www.instagram.com/nan.xiaobei/)
 - 🗞 Read stories since 2008 on my [**blog**](https://lee.so/blog)
-- 📔 Read FE tech articles on my [**Retalk**](https://www.zhihu.com/column/c_1386709004823998464)
+- 📔 Read FE tech articles on my [**Retalk**](https://lee.so/retalk)
 - 💯 Get your web design done on [**21beats**](https://21beats.com/)
 - 🧭 Checkout slides(PPT) about FE on [**slides**](https://slides.com/retalk)
 - 😇 Talk to me via [**Email**](mailto:nanxiaobei@gmail.com)
@@ -20,7 +20,8 @@ Love simple things and make things simple ❤️. especially, I make simple Reac
 
 Repos:
 
-- 🧿 [solid-react](https://github.com/nanxiaobei/solid-react) SolidJS-like React withˏˋSignalsˎˊ
+- 🏝 [react-live-island](https://github.com/nanxiaobei/react-live-island) Dynamic Island for React
+- 🧿 [solid-react](https://github.com/nanxiaobei/solid-react) ˏˋSignalsˎˊ for React
 - 🏏 [react-split-components](https://github.com/nanxiaobei/react-split-components) A new way of Function Components without Hooks
 - 🏄‍♂️ [react-slide-routes](https://github.com/nanxiaobei/react-slide-routes) The easiest way to slide React routes
 - ♒ [react-easy-contexts](https://github.com/nanxiaobei/react-easy-contexts) A simple tool to add multiple React contexts easily
