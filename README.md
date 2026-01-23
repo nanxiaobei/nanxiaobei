@@ -20,6 +20,7 @@ Love simple things and make things simple ❤️. especially, I make simple Reac
 
 Repos:
 
+- 🪄 [ai-global](https://github.com/nanxiaobei/ai-global) Unified configuration manager for AI coding assistants
 - 🏝 [react-live-island](https://github.com/nanxiaobei/react-live-island) Dynamic Island for React
 - 🧿 [solid-react](https://github.com/nanxiaobei/solid-react) ˏˋSignalsˎˊ for React
 - 🏏 [react-split-components](https://github.com/nanxiaobei/react-split-components) A new way of Function Components without Hooks
