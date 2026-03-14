@@ -20,13 +20,22 @@ Love simple things and make things simple ❤️. especially, I make simple Reac
 
 Repos:
 
+- 🗡 [antd-img-crop](https://github.com/nanxiaobei/antd-img-crop) An image cropper for Ant Design Upload
 - 🪄 [ai-global](https://github.com/nanxiaobei/ai-global) Unified configuration manager for AI coding assistants
+- 🏄‍♂️ [react-slide-routes](https://github.com/nanxiaobei/react-slide-routes) The easiest way to slide React routes
+- 🪺 [hugo-paper](https://github.com/nanxiaobei/hugo-paper) A simple, clean, customizable Hugo theme
+- 🪄 [ant-plus](https://github.com/nanxiaobei/ant-plus) Ant Design Form Simplified
+- 🐤 [retalk](https://github.com/nanxiaobei/retalk) The Simplest Redux
+- 🍸 [flooks](https://github.com/nanxiaobei/flooks) Auto Optimized State Manager for React Hooks
+- 🪢 [resso](https://github.com/nanxiaobei/resso) The simplest React state manager
+- 🛠️ [create-antd-app](https://github.com/nanxiaobei/create-antd-app) A CLI to bootstrap a modern, elegant Ant Design project
+- 👤 [nanxiaobei](https://github.com/nanxiaobei/nanxiaobei) Personal Profile
+- 🕊 [react-spring-dnd](https://github.com/nanxiaobei/react-spring-dnd) A deadly simple drag and drop solution using react-spring
 - 🏝 [react-live-island](https://github.com/nanxiaobei/react-live-island) Dynamic Island for React
+- 🛏 [stylelint-config-one](https://github.com/nanxiaobei/stylelint-config-one) All-in-one stylelint config
 - 🧿 [solid-react](https://github.com/nanxiaobei/solid-react) ˏˋSignalsˎˊ for React
 - 🏏 [react-split-components](https://github.com/nanxiaobei/react-split-components) A new way of Function Components without Hooks
-- 🏄‍♂️ [react-slide-routes](https://github.com/nanxiaobei/react-slide-routes) The easiest way to slide React routes
-- ♒ [react-easy-contexts](https://github.com/nanxiaobei/react-easy-contexts) A simple tool to add multiple React contexts easily
-- 🕊 [react-spring-dnd](https://github.com/nanxiaobei/react-spring-dnd) A deadly simple drag and drop solution using react-spring
 - 📮 [taro-ux-kits](https://github.com/nanxiaobei/taro-ux-kits) Taro 小程序的用户体验优化 × 7
 - 🦋 [front-end-dev-guide](https://github.com/nanxiaobei/front-end-dev-guide) 前端开发行为指导规范
-- 🛏 [stylelint-config-one](https://github.com/nanxiaobei/stylelint-config-one) All-in-one stylelint config
+- ♒ [react-easy-contexts](https://github.com/nanxiaobei/react-easy-contexts) A simple tool to add multiple React contexts easily
+- 🎙 [nanxiaobei.github.io](https://github.com/nanxiaobei/nanxiaobei.github.io) nanxiaobei's page
