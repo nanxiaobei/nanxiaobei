@@ -2,8 +2,6 @@
 
 ### Hi there, I'm 南小北 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nanxiaobei&title_color=fff&text_color=fff&icon_color=ccc&bg_color=000&hide_title=true&show_icons=true" />
-
 - 🍭 Find fun on my site [**lee.so**](https://lee.so/)
 - 🌱 Follow me on [**Twitter**](https://twitter.com/nanxiaobei) or [**Instagram**](https://www.instagram.com/nan.xiaobei/)
 - 🗞 Read stories since 2008 on my [**blog**](https://lee.so/blog)
@@ -12,9 +10,9 @@
 - 🧭 Checkout slides(PPT) about FE on [**slides**](https://slides.com/retalk)
 - 😇 Talk to me via [**Email**](mailto:nanxiaobei@gmail.com)
 
-A designer, a writer, a front-end developer. with React ⚛️ and Vue ♻️ skills.
+A designer, a writer, a front-end developer. with React ⚛️, Next.js 🅝, TypeScript ʦ, Tailwind CSS 🪁, Ant Design 🐜, Vite 🌩️ and Vue ♻️ skills.
 
-Love simple things and make things simple ❤️. especially, I make simple React libraries, I contribute to make the React ⚡️ world simpler, not complexity and chaos 🗡.
+Love simple things and make things simple ⚡️, make everything simpler, not complexity and chaos 🗡.
 
 ---
 
